@@ -43,3 +43,10 @@ The Equifax breach demonstrates that **neglecting basic security hygiene can hav
 - Read the [Point Paper](Equifax%20Data%20Breach%202017%20Point%20Paper%20by%20Subhadra%20Mahanta.pdf) for a deep dive.
 - View the [Presentation (PDF)](Equifax%20Data%20Breach%202017%20Presentation.pdf) for a concise summary.
 - Watch the [Video (MP4)](Equifax%20Data%20Breach%20Analysis.mp4) or check the [Link](Presentation%20Link.txt) for an accessible version.
+
+
+## To verify file integrity, use the included public key and signature with your preferred cryptographic tool.
+- [hash.txt](hash.txt)
+- [Signature (hash.txt.sig)](hash.txt.sig)
+- [Public Key (public_key.pem)](public_key.pem)
+
