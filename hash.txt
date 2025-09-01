@@ -1,0 +1,14 @@
+Hashed using SHA3-256
+
+Equifax Data Breach 2017 Point Paper by Subhadra Mahanta.pdf:
+b45c7a3e65c44bd8ce2e8e4906f907321330f357703f9a0266949ba9789c0838
+
+Equifax Data Breach 2017 Presentation.pdf:
+7ccb36e41b4cd4f343cd079adfb94c2c6e4058d6b2c7672828a5eace177bc4ab
+
+Equifax Data Breach Analysis.mp4:
+1e2e1daded961308ffbbdd67b08b6db38aa635d5c87896dee4905fcaaeb7e446
+
+Presentation Link.txt:
+1ae8df0faa40aaeaa29d577f0978eddacf0475ecc264cbabd5545085db939cd4
+
